@@ -6,7 +6,7 @@ Este projeto é uma página de login inspirada no Instagram, recriada utilizando
 
 - **HTML**: Estruturação do conteúdo da página.
 - **CSS**: Estilização da interface do usuário.
-- 
+
 ## ✨ Funcionalidades
 
 - Formulário de login com campos para usuário e senha.
